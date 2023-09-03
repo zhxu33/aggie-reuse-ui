@@ -1,4 +1,4 @@
-# aggie-reuse-ui
+# Aggie Reuse Inventory
 
 ## Demo: 
 https://aggie-reuse-inventory-108edb5bada0.herokuapp.com/
